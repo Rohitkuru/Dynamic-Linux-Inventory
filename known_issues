@@ -1,0 +1,4 @@
+1) exception occured while scanning machines using scapy and multhreading from windows host
+    unknown pypcap network interface '\\Device\\NPF_Loopback'
+
+    workaround : - install nmap on windows host and that solves a problem.
