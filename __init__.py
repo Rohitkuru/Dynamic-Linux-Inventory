@@ -1,5 +1,4 @@
 from flask import Flask
-from home.view import home
 from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
@@ -12,6 +11,4 @@ db = SQLAlchemy(app)
 
 app.register_blueprint(home)
 
-if __name__ == '__main__':
-    db.create_all()
-    app.run(debug=True)
+from home.view import home
