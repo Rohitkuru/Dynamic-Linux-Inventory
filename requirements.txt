@@ -1,4 +1,0 @@
-netaddr
-scapy
-flask
-flask-SQLAlchemy
