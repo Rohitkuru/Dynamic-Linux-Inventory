@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c632addd-2460-4161-8abd-9af8f0bcfb72" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/Crud/operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/Crud/operation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inventory/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/home/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/home/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/server_inventory_bootstrap.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/server_inventory_bootstrap.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/inventory/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs" beforeDir="false" afterPath="$PROJECT_DIR$/logs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,22 +109,34 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1898" height="437" key="GridCell.Tab.0.bottom" timestamp="1615533941427">
+    <state width="1898" height="237" key="GridCell.Tab.0.bottom" timestamp="1615791357544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="437" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615533941427" />
-    <state width="1898" height="437" key="GridCell.Tab.0.center" timestamp="1615533941427">
+    <state width="1898" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615791357544" />
+    <state width="1898" height="237" key="GridCell.Tab.0.center" timestamp="1615791357543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="437" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615533941427" />
-    <state width="1898" height="437" key="GridCell.Tab.0.left" timestamp="1615533941427">
+    <state width="1898" height="237" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615791357543" />
+    <state width="1898" height="237" key="GridCell.Tab.0.left" timestamp="1615791357543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="437" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615533941427" />
-    <state width="1898" height="437" key="GridCell.Tab.0.right" timestamp="1615533941427">
+    <state width="1898" height="237" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615791357543" />
+    <state width="1898" height="237" key="GridCell.Tab.0.right" timestamp="1615791357543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1898" height="437" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615533941427" />
+    <state width="1898" height="237" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615791357543" />
   </component>
 </project>
